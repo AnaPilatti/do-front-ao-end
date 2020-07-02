@@ -16,3 +16,9 @@ Usamos para definir a navegação do usuário. Se você tem um link para associa
 ```
 <a href="https://collabcode.training/">CollabCode.Training</a>
 ```
+
+# CSS
+
+É uma linguagem de estilo. Tem as segunites responsabilidades:
+
+- Visual;

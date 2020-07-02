@@ -22,3 +22,7 @@ Usamos para definir a navegação do usuário. Se você tem um link para associa
 É uma linguagem de estilo. Tem as segunites responsabilidades:
 
 - Visual;
+
+
+
+/*padding: top right bottom left */

@@ -2,9 +2,10 @@ header{
     background-color:#e24647;
     color: #FFF;
     overflow: hidden;
+    margin: 0 115px;
+    padding: 55px 60px 95px 60px;
 }
-
-
+ 
 h1{
     font-size: 40px; 
     font-family: Arial, "Roboto", sans-serif;

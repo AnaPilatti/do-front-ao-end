@@ -2,8 +2,14 @@
     background-color:#e24647;
     color: #FFF;
     overflow: hidden;
-    margin: 0 115px;
+    width: 80%;
     padding: 55px 60px 95px 60px;
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+
+    transform: translateX(-50%) translateY(-50%);
 }
  
 .title {
@@ -19,7 +25,7 @@
 }
 
 
-a {
+.action {
     text-decoration: none;
     color: inherit;
     margin-right: 60px;
